@@ -1,5 +1,7 @@
 # Contributing
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 Thank you for your interest in contributing! We welcome contributions of all kinds and appreciate your time and effort. This document outlines how you can get involved and help improve this project.
 
 Please note that by participating in this project, you agree to abide by the Code of Conduct.
